@@ -8,7 +8,7 @@ sports = {"Cubs" => "yay!", "Sox" => "booo!"}
 
 # pull out Obama's street address from the personal_info variable
 personal_info = [{
-    "name" => {"first" = "Barack", "last" => "Obama"},
+    "name" => {"first" => "Barack", "last" => "Obama"},
     "address" => {
       "street" => "1600 Pennsylvania Ave NW",
       "city" => "Washington",
